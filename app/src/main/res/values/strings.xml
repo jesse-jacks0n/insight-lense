@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InsightLens</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Image Analysis Studio</string>
+    <string name="contact_us_title">Contact on WhatsApp</string>
+    <string name="My_Details">Developed by Jesse ❤️</string>
+    <string name="details_dialog_title">Just a Curious Developer</string>
+    <string name="info_button_description">Just a Curious Developer</string>
+    <string name="baking_description">You can use the AI to explain images: provide recipes or explain what is in the image</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Explain what is in the image</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
